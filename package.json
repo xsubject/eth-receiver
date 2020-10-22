@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/xsubject/eth-receiver#readme",
   "dependencies": {
+    "sqlite3": "^5.0.0",
     "web3": "^1.3.0"
   }
 }
